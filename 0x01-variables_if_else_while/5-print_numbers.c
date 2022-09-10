@@ -1,19 +1,19 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
- * main - prints from zero to 9 numbers
- * Return: Always 0 (Success)
+ * main - returns single integer number from 0-10
+ * Return: return 0 if successful
  */
 
 int main(void)
 {
-	int number = 0;
+	int num = 0;
 
-	while (number < 10)
+	while (num < 10)
 	{
-		printf("%i", number);
-		number++;
+		printf("%d", num);
+		num++;
 	}
 	putchar('\n');
-
-	
+	return (0);
+}
