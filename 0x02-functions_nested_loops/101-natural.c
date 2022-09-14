@@ -1,5 +1,6 @@
 #include"main.h"
-
+#include <stdio.h>
+#include <math.h>
 /**
  * main - Entry point
  *
@@ -9,17 +10,18 @@
  *
  * Return: Always 0 (Success)
 */
-
 int main(void)
 {
-	int sum, num;
-
-	for (num = 0; num < 1024; ++num)
+	int i = 1;
+	int total = 0;
+		while (i < 1024)
 	{
-		if ((num % 3 == 0) || (num % 5 == 0))
-			sum += num;
+		if (i % 3 == 0)
+			total += i;
+		else if (i % 5 == 0)
+			total += i;
+		i++;
 	}
-	printf("%d\n", sum);
-
+	printf("%d\n", total);
 	return (0);
 }
