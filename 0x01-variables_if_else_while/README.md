@@ -1,5 +1,7 @@
 ## 0x01. C - Variables, if, else, while
 
+![020819_0436_CConditiona2](https://user-images.githubusercontent.com/110563322/190170307-8168ebfe-98e9-435b-8c2a-f6d9f0dfab6a.jpeg)
+
 ### TASKS
 <details>
 <summary><a href="./0-positive_or_negative.c">0. Positive anything is better than negative nothing</a></summary><br>
