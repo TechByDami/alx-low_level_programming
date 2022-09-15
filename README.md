@@ -32,7 +32,8 @@ LEARNING THE C PROGRAMMING LANGUAGE AND ITS APPILICATION
 1. [0x00-hello_world](./0x00-hello_world)
 2. [0x01-variables_if_else_while](./0x01-variables_if_else_while)
 3. [0x02-functions_nested_loops](./0x02-functions_nested_loops)
-4. [0x03-more_functions_nested_loops](./0x03-more_functions_nested_loops)
+4. [0x03-debugging](./0x03-debugging)
+5. [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
 
 -- - 
 <h3 align="left">Connect with me:</h3>
