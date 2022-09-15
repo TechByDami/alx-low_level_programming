@@ -28,13 +28,13 @@ LEARNING THE C PROGRAMMING LANGUAGE AND ITS APPILICATION
 
 - This repository comprises of task compilation of my learning in C programming language with ALX program
 
-##  Projects
+## Projects
+1. [0x00-hello_world](./0x00-hello_world)
+2. [0x01-variables_if_else_while](./0x01-variables_if_else_while)
+3. [0x02-functions_nested_loops](./0x02-functions_nested_loops)
+4. [0x03-more_functions_nested_loops](./0x03-more_functions_nested_loops)
 
-- [0x00](./0x00-hello_world) : Hello, World.
-- [0x01](./0x01-variables_if_else_while) : Variables,if,else,while.
-- [0x02](./0x02-functions_nested_loops) : Functions, nested loops.
-- [0x03](./0x03-debugging) : Debugging.
-
+-- - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/techbydami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techbydami" height="30" width="40" /></a>
