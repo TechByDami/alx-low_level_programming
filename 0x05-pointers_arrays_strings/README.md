@@ -143,7 +143,7 @@ Write a function that convert a string to an integer.
 
 
 <details>
-<summary><a href=”./101-keygen.c”>11. Don't hate the hacker, hate the code</a></summary><br>
+<summary><a href="./101-keygen.c">11. Don't hate the hacker, hate the code</a></summary><br>
 
 Create a program that generates random valid passwords for the
 program 101-crackme.
