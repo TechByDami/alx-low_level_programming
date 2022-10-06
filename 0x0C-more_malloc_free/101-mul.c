@@ -8,6 +8,14 @@ char *create_xarray(int size);
 char *iterate_zeroes(char *str);
 void get_prod(char *prod, char *mult, int digit, int zeroes);
 void add_nums(char *final_prod, char *next_prod, int next_len);
+/**
+ * _print - moves a string one place to the left and prints the string
+ * @str: string to move
+ * @l: size of string
+ *
+ * Return: void
+ */
+
 void _print(char *str, int l)
 {
 	int i, j;
